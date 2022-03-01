@@ -20,7 +20,7 @@ just open project in you IDE and run it!
 
 
 ## Maintainer
-* Hossein Biniazian, github: [clennan](https://github.com/iamhosseinbiniazian)
+* Hossein Biniazian, github: [biniazian](https://github.com/iamhosseinbiniazian)
 
 
 
