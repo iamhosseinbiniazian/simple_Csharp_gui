@@ -1,21 +1,21 @@
-# Beautiful Gui in C#<
+# Beautiful Gui with C#
 
 
-This ia a simple windows from application in Cshap that use some basic tool of gui component like Color, Pen, Rectangle, Brush, Bitmap, Graphics and etc.
- The usage of this components are completly shows and use in this project, afterwars when you run the project, you can see a very nice gui thath you can it in your projec.
+This ia a simple windows from application with Cshap that use some basic tool of gui component like Color, Pen, Rectangle, Brush, Bitmap, Graphics and etc.
+ The usage of this components are completly show and use in this project, afterwars when you run the project, you can see a very nice gui that you can it in your projec.
 - Use basic GUI component in C#
 - Use gui component with result of math operation
-- Draw result of Form
+- Draw result on Form
 
 
 Beautiful Gui  with C# 
 
 ## Installation
-No any Installation need just open project in visual studio.
+No any kind of Installation need just open project in visual studio.
 
 
 ## Usage
-just open project in you ide and run it!
+just open project in you IDE and run it!
 
 
 
